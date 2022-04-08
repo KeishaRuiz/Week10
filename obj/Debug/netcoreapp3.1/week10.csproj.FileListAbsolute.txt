@@ -1,0 +1,14 @@
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.csproj.AssemblyReference.cache
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.AssemblyInfoInputs.cache
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.AssemblyInfo.cs
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.csproj.CoreCompileInputs.cache
+C:\Users\S7656167\source\repos\week10\bin\Debug\netcoreapp3.1\week10.exe
+C:\Users\S7656167\source\repos\week10\bin\Debug\netcoreapp3.1\week10.deps.json
+C:\Users\S7656167\source\repos\week10\bin\Debug\netcoreapp3.1\week10.runtimeconfig.json
+C:\Users\S7656167\source\repos\week10\bin\Debug\netcoreapp3.1\week10.runtimeconfig.dev.json
+C:\Users\S7656167\source\repos\week10\bin\Debug\netcoreapp3.1\week10.dll
+C:\Users\S7656167\source\repos\week10\bin\Debug\netcoreapp3.1\week10.pdb
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.dll
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.pdb
+C:\Users\S7656167\source\repos\week10\obj\Debug\netcoreapp3.1\week10.genruntimeconfig.cache
